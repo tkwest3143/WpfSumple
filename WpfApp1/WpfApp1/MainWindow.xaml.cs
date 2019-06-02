@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
@@ -13,6 +12,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfApp1.Common;
 
 namespace WpfApp1
 {
@@ -24,8 +24,7 @@ namespace WpfApp1
         private NavigationService _navi;
 
         //ロードのためのURI
-        private Uri _uri = 
-            new Uri("Screen/LoginPage.xaml",UriKind.Relative);
+        private Uri _uri = PageEnum.LoginPage.ToRelativeUri();
         public MainWindow()
         {
             InitializeComponent();
@@ -35,7 +34,6 @@ namespace WpfApp1
         //起動時に初期画面としてロードする
         private void MainFrame_Loaded(object sender,RoutedEventArgs e)
         {
-            (this.Resources["rectAnimation"] as Storyboard).Begin();
             
             _navi.Navigate(_uri);
         }

@@ -1,0 +1,6 @@
+C:\GitHub\WpfSumple\WpfApp1\Framewark\bin\Debug\netstandard2.0\Framewark.deps.json
+C:\GitHub\WpfSumple\WpfApp1\Framewark\bin\Debug\netstandard2.0\Framewark.dll
+C:\GitHub\WpfSumple\WpfApp1\Framewark\obj\Debug\netstandard2.0\Framewark.csprojAssemblyReference.cache
+C:\GitHub\WpfSumple\WpfApp1\Framewark\obj\Debug\netstandard2.0\Framewark.csproj.CoreCompileInputs.cache
+C:\GitHub\WpfSumple\WpfApp1\Framewark\obj\Debug\netstandard2.0\Framewark.AssemblyInfoInputs.cache
+C:\GitHub\WpfSumple\WpfApp1\Framewark\obj\Debug\netstandard2.0\Framewark.AssemblyInfo.cs

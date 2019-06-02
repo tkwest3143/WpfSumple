@@ -1,0 +1,1 @@
+﻿create table userinfo(realname varchar(20), username varchar(20), Birthday int);

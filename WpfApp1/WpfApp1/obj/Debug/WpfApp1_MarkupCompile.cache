@@ -12,9 +12,9 @@ DEBUG;TRACE
 C:\GitHub\WpfSumple\WpfApp1\WpfApp1\App.xaml
 16-1411366186
 
-39-1101786168
-152-249683578
+43-1243711300
+153672849576
 MainWindow.xaml;Screen\ConfigMainPage.xaml;Screen\ErrorPage.xaml;Screen\LoginPage.xaml;Screen\MealInputPage.xaml;Screen\MealMainPage.xaml;Screen\PastRecordPage.xaml;Screen\PastScheduleShowPage.xaml;Screen\RegisterComp.xaml;Screen\RegisterConfirm.xaml;Screen\RegisterMainPage.xaml;Screen\ScheduleAddPage.xaml;Screen\ScheduleMainPage.xaml;Screen\TempPage.xaml;Screen\TraningInputComp.xaml;Screen\TraningMainPage.xaml;
 
-False
+True
 
